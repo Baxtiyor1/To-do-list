@@ -44,7 +44,7 @@ body {
 .input {
   width: 100%;
   padding-left: 10px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   height: 40px;
   border: 2px solid #ccc;
   border-radius: 10px;
@@ -86,5 +86,21 @@ body {
 
 .item__btn:hover {
   opacity: 1;
+}
+
+.btn {
+  width: 100%;
+  height: 30px;
+  border: none;
+  background-color: #20bf20;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #07f807;
 }
 /*# sourceMappingURL=main.css.map */
